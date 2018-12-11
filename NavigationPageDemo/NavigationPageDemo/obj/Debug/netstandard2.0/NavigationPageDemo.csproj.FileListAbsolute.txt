@@ -1,0 +1,13 @@
+C:\XF2\NavigationPageDemo\NavigationPageDemo\NavigationPageDemo\bin\Debug\netstandard2.0\NavigationPageDemo.deps.json
+C:\XF2\NavigationPageDemo\NavigationPageDemo\NavigationPageDemo\bin\Debug\netstandard2.0\NavigationPageDemo.dll
+C:\XF2\NavigationPageDemo\NavigationPageDemo\NavigationPageDemo\bin\Debug\netstandard2.0\NavigationPageDemo.pdb
+C:\XF2\NavigationPageDemo\NavigationPageDemo\NavigationPageDemo\obj\Debug\netstandard2.0\NavigationPageDemo.csprojAssemblyReference.cache
+C:\XF2\NavigationPageDemo\NavigationPageDemo\NavigationPageDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XF2\NavigationPageDemo\NavigationPageDemo\NavigationPageDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\XF2\NavigationPageDemo\NavigationPageDemo\NavigationPageDemo\obj\Debug\netstandard2.0\PageA.xaml.g.cs
+C:\XF2\NavigationPageDemo\NavigationPageDemo\NavigationPageDemo\obj\Debug\netstandard2.0\NavigationPageDemo.csproj.CoreCompileInputs.cache
+C:\XF2\NavigationPageDemo\NavigationPageDemo\NavigationPageDemo\obj\Debug\netstandard2.0\NavigationPageDemo.AssemblyInfoInputs.cache
+C:\XF2\NavigationPageDemo\NavigationPageDemo\NavigationPageDemo\obj\Debug\netstandard2.0\NavigationPageDemo.AssemblyInfo.cs
+C:\XF2\NavigationPageDemo\NavigationPageDemo\NavigationPageDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\XF2\NavigationPageDemo\NavigationPageDemo\NavigationPageDemo\obj\Debug\netstandard2.0\NavigationPageDemo.dll
+C:\XF2\NavigationPageDemo\NavigationPageDemo\NavigationPageDemo\obj\Debug\netstandard2.0\NavigationPageDemo.pdb
